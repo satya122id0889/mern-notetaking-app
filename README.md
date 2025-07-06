@@ -20,7 +20,7 @@ This version includes a **Redis-based rate limiter** for API protection and is *
 | Frontend     | React + Axios + Tailwind (optional) |
 | Backend      | Node.js + Express |
 | Database     | MongoDB (via Atlas or local) |
-| Caching / Rate Limit | Redis |
+| Rate Limit | Redis |
 | Deployment   | Render.com |
 
 ---
