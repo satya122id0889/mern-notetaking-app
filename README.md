@@ -30,5 +30,5 @@ This version includes a **Redis-based rate limiter** for API protection and is *
 ### 1. Clone the Repo
 
 ```bash
-git clone https://github.com/yourusername/mern-notes-app.git
+git clone https://github.com/satya122id0889/mern-notes-app.git
 cd mern-notes-app
